@@ -1,0 +1,10 @@
+h2{
+    color: #e17dbc;
+    border-radius: 5px;
+    margin-top: 1%;
+    font-size: 8em;
+  }
+  
+  #counterText{
+    justify-content: center;
+  }
